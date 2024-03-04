@@ -1,0 +1,12 @@
+/Users/kevinsanto/Documents/GitHub/jumperlab/src-tauri/target/debug/deps/libtar-0ca083b635c12aa5.rmeta: /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/lib.rs /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/archive.rs /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/builder.rs /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/entry.rs /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/entry_type.rs /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/error.rs /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/header.rs /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/pax.rs
+
+/Users/kevinsanto/Documents/GitHub/jumperlab/src-tauri/target/debug/deps/tar-0ca083b635c12aa5.d: /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/lib.rs /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/archive.rs /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/builder.rs /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/entry.rs /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/entry_type.rs /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/error.rs /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/header.rs /Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/pax.rs
+
+/Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/lib.rs:
+/Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/archive.rs:
+/Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/builder.rs:
+/Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/entry.rs:
+/Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/entry_type.rs:
+/Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/error.rs:
+/Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/header.rs:
+/Users/kevinsanto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tar-0.4.40/src/pax.rs:

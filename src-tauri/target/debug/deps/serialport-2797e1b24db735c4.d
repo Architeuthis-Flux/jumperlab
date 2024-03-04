@@ -1,0 +1,12 @@
+/Users/kevinsanto/Documents/GitHub/jumperlab/src-tauri/target/debug/deps/libserialport-2797e1b24db735c4.rmeta: /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/lib.rs /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/mod.rs /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/enumerate.rs /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/error.rs /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/ioctl.rs /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/poll.rs /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/termios.rs /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/tty.rs
+
+/Users/kevinsanto/Documents/GitHub/jumperlab/src-tauri/target/debug/deps/serialport-2797e1b24db735c4.d: /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/lib.rs /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/mod.rs /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/enumerate.rs /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/error.rs /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/ioctl.rs /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/poll.rs /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/termios.rs /Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/tty.rs
+
+/Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/lib.rs:
+/Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/mod.rs:
+/Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/enumerate.rs:
+/Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/error.rs:
+/Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/ioctl.rs:
+/Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/poll.rs:
+/Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/termios.rs:
+/Users/kevinsanto/.cargo/git/checkouts/serialport-rs-b547cd77898e053e/b064fa9/src/posix/tty.rs:
